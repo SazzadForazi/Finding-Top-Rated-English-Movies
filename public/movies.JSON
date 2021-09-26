@@ -1,0 +1,92 @@
+[
+    {
+        "imdbID": "tt0096895",
+        "Title": "Batman",
+        "Rating": "9.00",
+        "Budget": 80,
+        "time": "109 minutes",
+        "Country": "United States",
+        "Year": 1989,
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_.jpg"
+    },
+    {
+        "imdbID": "tt0468569",
+        "Title": "The Dark Knight",
+        "Rating": "9.2",
+        "Budget": 185,
+        "time": "152 minutes",
+        "Country": "United States",
+        "Year": 2008,
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt2975590",
+        "Title": "Batman v Superman: Dawn of Justice",
+        "Rating": "9.8",
+        "Budget": 270,
+        "time": "152 minutes",
+        "Country": "United States",
+        "Year": 2016,
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt1345836",
+        "Title": "The Dark Knight Rises",
+        "Rating": "9.4",
+        "Budget": 230,
+        "time": "126 minutes",
+        "Country": "United States",
+        "Year": 2012,
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0372784",
+        "Title": "Batman Begins",
+        "Rating": "9.5",
+        "Budget": 150,
+        "time": "140 minutes",
+        "Country": "United States",
+        "Year": 2005,
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_.jpg"
+    },
+    {
+        "imdbID": "tt4116284",
+        "Title": "The LEGO Batman Movie",
+        "Rating": "9.1",
+        "Budget": 80,
+        "time": "104 minutes",
+        "Country": "United States Denmark Australia",
+        "Year": 2017,
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0112462",
+        "Title": "Batman Forever",
+        "Rating": "8.9",
+        "Budget": 100,
+        "time": "120 minutes",
+        "Country": "United States",
+        "Year": 1995,
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BNWY3M2I0YzItNzA1ZS00MzE3LThlYTEtMTg2YjNiOTYzODQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0118688",
+        "Title": "Batman & Robin",
+        "Rating": "9.5",
+        "Budget": 160,
+        "time": "125 minutes",
+        "Country": "United States",
+        "Year": 1997,
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0103776",
+        "Title": "Batman Returns",
+        "Rating": "9.2",
+        "Budget": 75,
+        "time": "126 minutes",
+        "Country": "United States",
+        "Year": 1992,
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    }
+]
